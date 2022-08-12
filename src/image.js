@@ -1,0 +1,1 @@
+const image="i am a boy"
